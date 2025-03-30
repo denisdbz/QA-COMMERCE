@@ -1,0 +1,11 @@
+{
+  "name": "qa-commerce",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm run dev",
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^12.0.0"
+  }
+}
