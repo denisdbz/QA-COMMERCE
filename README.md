@@ -43,8 +43,7 @@ Editor de código como VS Code
 
 Clonar o Repositório
 
-git clone https://github.com/Keeggo-Technology-Brasil-SA/qa-commerce.git
-cd qa-commerce
+git clone https://github.com/denisdbz/QA-COMMERCE.git
 
  Instalar as Dependências
 
